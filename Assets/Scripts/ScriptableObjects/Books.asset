@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff24e3303ef720b4c84b2f8fca355553, type: 3}
-  m_Name: Table
+  m_Name: Books
   m_EditorClassIdentifier: 
-  _image: {fileID: 21300000, guid: 33449d89ad918fa42be54fe774e12d3f, type: 3}
-  _lable: Table
-  _template: {fileID: 8670232813343506008, guid: cbec771c1795bd6458b2310c86d5d6b7, type: 3}
+  _image: {fileID: 21300000, guid: 8a047324b429b4740854f775e65fb8a4, type: 3}
+  _lable: Books
+  _template: {fileID: 4300868251209000738, guid: 23f96c6f17e0d5b4bacaf839fb197387, type: 3}
