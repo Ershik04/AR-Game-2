@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8249075784153651928}
   - component: {fileID: 3960816733453648520}
   - component: {fileID: 1643012220644274570}
+  - component: {fileID: -7042867388863709883}
   m_Layer: 0
   m_Name: Bath Carpet
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &-7042867388863709883
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7113475383851975801}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.4557933, y: 0.061419174, z: 2.1111329}
+  m_Center: {x: 0, y: 0, z: 0}
